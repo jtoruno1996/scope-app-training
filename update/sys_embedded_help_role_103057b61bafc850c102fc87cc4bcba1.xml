@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_22010_traini.gator1" name="x_snc_22010_traini.gator1">103057b61bafc850c102fc87cc4bcb9d</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>jorge.toruno@snc</sys_created_by>
+        <sys_created_on>2020-03-18 14:51:07</sys_created_on>
+        <sys_id>103057b61bafc850c102fc87cc4bcba1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>103057b61bafc850c102fc87cc4bcb9d</sys_name>
+        <sys_package display_value="22010_training" source="x_snc_22010_traini">fd009f761bafc850c102fc87cc4bcb3c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="22010_training">fd009f761bafc850c102fc87cc4bcb3c</sys_scope>
+        <sys_update_name>sys_embedded_help_role_103057b61bafc850c102fc87cc4bcba1</sys_update_name>
+        <sys_updated_by>jorge.toruno@snc</sys_updated_by>
+        <sys_updated_on>2020-03-18 14:51:07</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
